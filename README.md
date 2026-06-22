@@ -1,4 +1,4 @@
-**Agent School — AI 智能体学校**
+ **Agent School — AI 智能体学校**
 
 > 让 AI Agent 像学生一样上课、考试、对战、成长的虚拟校园平台
 
